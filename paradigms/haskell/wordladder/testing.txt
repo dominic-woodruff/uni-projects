@@ -1,0 +1,37 @@
+Queue testlog
+
+*Main> let q = emptyQueue 
+*Main> isEmptyQueue q
+True
+*Main> let q1 = enqueue 1 q
+*Main> is
+*Main> isEmptyQueue q1
+False
+*Main> let (x, q2) = dequeue q1
+*Main> x
+1
+*Main> let q3 = enqueue 2 q2
+*Main> toList q3
+[2]
+*Main> let q4 = enqueue 3 q3
+*Main> toList q4
+[2,3]
+*Main> let (y, q5) = dequeue q4
+*Main> y
+2
+*Main> toList q5
+[3]
+
+
+Other function tests
+
+*Main> countDiffs "cat" "zzt"
+2
+
+*Main> oneLetterDifferent "cat" ["lme", "car", "rat", "sss", "tat"]
+["car","rat","tat"]
+
+*Main> goalReached ("cat", ["sst", "sat", "sst"]) "cat"
+True
+
+

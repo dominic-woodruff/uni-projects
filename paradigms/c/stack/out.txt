@@ -1,0 +1,36 @@
+race car.
+is a palindrome
+
+
+was.
+is not a palindrome
+
+
+Ra.C.e.cAr
+is a palindrome
+
+
+falls
+is not a palindrome
+
+
+slls
+is a palindrome
+
+
+asddsa
+is a palindrome
+
+
+Madam, in Eden, I’m Adam.
+is a palindrome
+
+
+race car
+is a palindrome
+
+
+race car 
+is a palindrome
+
+
