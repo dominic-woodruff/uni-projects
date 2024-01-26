@@ -1,0 +1,26 @@
+crawl
+ is in the dictionary
+fall
+ is in the dictionary
+foenv
+ is not in the dictionary
+hats
+ is in the dictionary
+jump
+ is in the dictionary
+kqnt
+ is not in the dictionary
+op
+ is in the dictionary
+po
+ is not in the dictionary
+qjwnfe
+ is not in the dictionary
+qlsknfq
+ is not in the dictionary
+run
+ is in the dictionary
+test
+ is in the dictionary
+walk
+ is in the dictionary
