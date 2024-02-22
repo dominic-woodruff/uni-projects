@@ -1,0 +1,17 @@
+#cloud-config
+autoinstall:
+  # version is an Autoinstall required field.
+  version: 1
+
+  identity:
+    username: host
+    password: $6$BTCZL8TNNoAXuQaf$ERTkGRvPr8bwBLhicvRh3JDMMI4Bw64WuSiIdPNwJuhBsd7cg4.iDM1uc3beCkmiVI0MEymi.ewTpzurzDR6T1
+
+  storage:
+    layout:
+      name: direct
+
+  ssh:
+    install-server: true
+
+  shutdown: reboot
