@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Youtube Video Summarizer</title>
+</head>
+<body>
+    <h1>Summary</h1>
+    {{summary}}
+    <form action="/submit" method="post">
+        <label for="url">Video URL:</label>
+        <input type="text" id="url" name="url"><br><br>
+        
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
